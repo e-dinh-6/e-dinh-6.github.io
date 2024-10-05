@@ -236,7 +236,7 @@ main {
 }
 
 .resume {
-  width: 850px;
+  width: 90%;
   border: 2px solid var(--cg-blue); /* Adjust the thickness and color */
   background-color: white;
   padding: 20px; /* Adds space inside the border */
