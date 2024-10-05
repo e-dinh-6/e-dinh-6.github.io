@@ -116,9 +116,9 @@ main {
 
 .project-image {
   object-fit: cover;
-  width: 100%;
+  width: 70%;
   height: 500px;
-  flex-basis: 50px;
+  flex-basis: 50%;
   flex-grow: 2;
 
   /* Debug border */
@@ -128,7 +128,7 @@ main {
 .project-details {
   display: flex;
   background-color: var(--cg-white);
-  width: 30%;
+  width: 90%;
   height: 500px;
   flex-shrink: 1;
   padding: 0 20px;
